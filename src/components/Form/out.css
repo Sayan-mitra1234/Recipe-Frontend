@@ -1,0 +1,30 @@
+.out{
+    width: 300px;
+    height: 100px;
+    margin-top: 20%;
+    font-size: 50px;
+    font-weight: 900;
+}
+label{
+    color: white;
+    font-size: 20px;
+    font-weight: 900;
+    margin-top: 20px;
+}
+input{
+    width: 600px;
+}
+
+.direction{
+    height: 100px;
+   
+}
+.ingredience{
+    height: 50px;
+}
+.header{
+    font-size: 50px;
+    font-weight: 900;
+    color: azure;
+    letter-spacing: 5px;
+}
